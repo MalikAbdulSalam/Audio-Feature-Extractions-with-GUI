@@ -4,7 +4,9 @@
 	> https://docs.anaconda.com/free/anaconda/install/windows/
 
 ** open terminal and type following command to creat environment **
-	> conda create -n test_env python=3.9
+	```
+	conda create -n test_env python=3.9
+	```
 
 ** Now activate environment by typing following commands **
 	> conda activate test_env
