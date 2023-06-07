@@ -1,6 +1,6 @@
 # Audio-Features-Extraction-with-GUI
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](![image](https://github.com/MalikAbdulSalam/Audio-Features-Extraction-with-GUI/assets/75979219/cb1c35de-8f06-4332-a17b-cf2d55acce1b))
 
 ## One time process:-
 ** install anaconda by following link **
