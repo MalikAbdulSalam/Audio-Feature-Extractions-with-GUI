@@ -9,13 +9,19 @@
 	```
 
 ** Now activate environment by typing following commands **
+	```
 	> conda activate test_env
+	```
 
 ** switch to directory whete the code is placed and type following command in terminal to install dependencies **
+	```
 	> pip install -r requirements.txt
+	```
 
 ###################################################################
 ** How to run GUI open terminal and type following commands **
+	```
 	> conda activate test_env
 	> python main.py
+	```
 ###################################################################
