@@ -2,6 +2,8 @@
 
 ![Screenshot of GUI](https://github.com/MalikAbdulSalam/Audio-Features-Extraction-with-GUI/assets/75979219/75170281-188c-4594-955f-c36acd00a219)
 
+**This is a tool for audio feature extraction for live and **
+
 ## One time process:-
 ** install anaconda by following link **
 
